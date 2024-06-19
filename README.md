@@ -22,7 +22,6 @@ sap/abap
 
 #### 기간 내 꼭 해보기:
 - "OpenSAP"에서 제공하는 ABAP 기초 강의 수강.
-- SAP NetWeaver AS ABAP Developer Edition을 설치하여 직접 실습.
 
 ### 4. 중급 학습 (3~4개월)
 
